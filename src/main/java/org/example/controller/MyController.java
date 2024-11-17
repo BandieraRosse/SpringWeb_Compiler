@@ -35,7 +35,7 @@ public class MyController {
         compiler.deleteFile("test03.cpp");
         compiler.deleteFile("a.exe");
         // 简单示例，实际应用中这里可能是更复杂的逻辑
-        return "Compile Success! \n" + result;
+        return "Compile Success! \n" + result;//git test
     }
 }
 
